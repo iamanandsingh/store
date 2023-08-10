@@ -3,3 +3,6 @@ packages:
 - .
 - store-core
 - store-streaming
+
+extra-deps:
+  - hpack-0.34.2
